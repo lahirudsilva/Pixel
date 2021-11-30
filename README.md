@@ -1,3 +1,5 @@
+`All rights for the source code and other related material are reserved`
+
 # Pixel
 C# Image processing application using Task Parallel Library with .Net
 
